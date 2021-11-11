@@ -1,2 +1,2 @@
 # Bike_sharing_Project
-Bike_sharing_Project
+Building here a multiple linear regression model for the prediction of demand for shared bikes
